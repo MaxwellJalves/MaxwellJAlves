@@ -5,7 +5,7 @@
 -  Pai de 2 crianças abençoadas 👨‍👨‍👧‍👦
 -  Musico por diversão
 -  Apaixonado por Técnologia
--  Movido por novos desafios.
+-  Movido por desafios.
 
 
 ## Ferramentas Utilizadas
