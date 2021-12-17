@@ -10,10 +10,10 @@
 
 ## Ferramentas Utilizadas
 
-### Atualmente sou desenvolvedor Java e pretendo dedicar 70% nos estudos nessa linguagem, porém não sou preso a linguagem , e gosto de aprender coisas novas sem perder o foco no meu objetivo.
+#### Atualmente sou desenvolvedor Java e pretendo dedicar 70% nos estudos nessa linguagem, porém não sou preso a linguagem , e gosto de aprender coisas novas sem perder o foco no meu objetivo.
 <br/>
 
-###  Nos ultimos 2 meses tive a oportunidade de sair da minha zona de conforto e trabalhar com as seguintes ferramentas que me fizeram ter uma visão mais ampla de todo desenvolvimento do software  .
+####  Nos ultimos 2 meses tive a oportunidade de sair da minha zona de conforto e trabalhar com as seguintes ferramentas que me fizeram ter uma visão mais ampla de todo desenvolvimento do software  .
 
 ---
 
@@ -36,7 +36,7 @@
 
 
 
-### Meu objetivo profissional é aprender e evoluir cada dia mais  e poder  e passar pra frente o conhecimento adiquirido de forma mais fácil para que outras pessoas que queiram realmente aprender e ser um profissional melhor possa evoluir junto.
+#### Meu objetivo profissional é aprender e evoluir cada dia mais  e poder  e passar pra frente o conhecimento adiquirido de forma mais fácil para que outras pessoas que queiram realmente aprender e ser um profissional melhor possa evoluir junto.
 
 
 
