@@ -10,10 +10,10 @@
 
 ## Ferramentas Utilizadas
 
-#### Atualmente sou desenvolvedor Java e pretendo dedicar 70% nos estudos nessa linguagem, porém não sou preso a linguagem , e gosto de aprender coisas novas sem perder o foco no meu objetivo.
+ Atualmente sou desenvolvedor Java me especializar nessa linguagem, porém não sou preso a linguagem / ferramenta de trabalho, estou sempre disposto a enfrentar novos desafios e aprender coisas novas.
 <br/>
 
-####  Nos ultimos 2 meses tive a oportunidade de sair da minha zona de conforto e trabalhar com as seguintes ferramentas que me fizeram ter uma visão mais ampla de todo desenvolvimento do software  .
+  Nos ultimos 3 meses tive a oportunidade de sair da minha zona de conforto e trabalhar com as seguintes ferramentas que me fizeram ter uma visão mais ampla de todo desenvolvimento do software  .
 
 ---
 
