@@ -2,8 +2,8 @@
 ### Sou Maxwell 
 ##  Graduado em Analise e Desenvolvimento de sistemas 🎓
 -  Casado
--  Pai de 2 crianças abençoadas 👨‍👨‍👧‍👦
--  Musico por diversão
+-  Pai de 2 crianças abençoadas 
+-  Músico por diversão
 -  Apaixonado por Técnologia
 -  Movido por desafios.
 
